@@ -244,7 +244,7 @@ MySQL • MongoDB • Firebase
 
 ## 📚 Formation Académique & Expertise
 
-🎓 **Bachelor in Computer Science** - Université de Douala, Cameroon (2019-2023)
+🎓 **Bachelor in Computer Science** - Université de Douala, Cameroon (2022-2026)
 - Spécialisation : Systèmes Embarqués & Intelligence Artificielle
 
 **Core Expertise :**
@@ -299,10 +299,10 @@ MySQL • MongoDB • Firebase
 
 Je suis un **Data Scientist et AI Engineer** passionné par la création de **solutions technologiques adaptées aux réalités africaines**. 
 
-Depuis mes premières lignes de code à l'Université de Douala, j'ai progressé de projets académiques (compilateurs, logique) à des applications industrielles (ML, NLP, Android). 
+Depuis mes premières lignes de code à l'Université de Douala, j'ai progressé de projets académiques (compilateurs, logique, sites web, etc) à des applications industrielles (ML, NLP, Android). 
 
 **Mon parcours** :
-- 📚 **Académique** : Licence en Informatique spécialisée en Systèmes Embarqués & IA (Université de Douala, 2019-2023)
+- 📚 **Académique** : Licence en Informatique spécialisée en Systèmes Embarqués & IA (Université de Douala, 2022-2026)
 - 🏆 **Certifications** : 12+ certifications en ML, Python, Kotlin, AI (Coursera, OpenClassrooms, Meta, Google, Arizona State)
 - 🚀 **Entrepreneurship** : Fondateur de NEXAFAI - plateforme d'éducation & technologie IA pour l'Afrique francophone
 - 💡 **Innovations** : NEXIA (plateforme IA multi-secteurs), ELISIMO Stock (gestion d'inventaire offline-first)
