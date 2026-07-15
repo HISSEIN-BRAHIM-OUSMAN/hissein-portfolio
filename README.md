@@ -7,7 +7,7 @@
 
 ## 🚀 Mission : Démocratiser l'IA en Afrique Francophone
 
-Je construis **NEXAFAI**, une plateforme d'éducation et de technologie IA nouvelle génération ciblant le **Tchad** et l'**Afrique francophone**. Mon approche : **offline-first**, **Mobile Money**, **contexte local** (français + arabe tchadien), **secteurs critiques** (éducation, finance, agriculture, santé).
+Je construis **NEXAFAI**, une startup d'éducation et de technologie IA nouvelle génération ciblant le **Tchad** et l'**Afrique**. Mon approche : **offline-first**, **Mobile Money**, **contexte local** (français + arabe), **secteurs critiques** (éducation, finance, agriculture, santé).
 
 > *"L'IA africaine doit être conçue par des Africains, pour les Africains."*
 
@@ -16,7 +16,7 @@ Je construis **NEXAFAI**, une plateforme d'éducation et de technologie IA nouve
 ## 📌 Projets Phares
 
 ### 🎓 [NEXAFAI](https://nexafai.ai)
-**Plateforme d'Éducation et d'IA pour l'Afrique**
+**startup d'Éducation et d'IA pour l'Afrique**
 
 - **Stratégie 24 mois** : Dominance en éducation (Phase 1) → Agriculture, Finance, Santé (Phases 2A-2C) → Commerce, Défense (Phase 3)
 - **15 formations professionnelles** en IA, Python, ML, Data Science
