@@ -202,7 +202,7 @@ Boutique de technologie + services numériques à Douala, Cameroun.
 ## 🛠️ Stack Technique
 
 ### Langages
-Python • Kotlin • JavaScript • SQL
+Python • Kotlin • Java • SQL • C/C++ 
 
 ### ML & Data Science
 scikit-learn • Pandas • NumPy • TensorFlow • Groq
@@ -215,6 +215,9 @@ React • Tailwind CSS • FastAPI • Oracle Cloud
 
 ### Tools & DevOps
 Git • Docker • MLflow • DVC • Anaconda
+
+### Data Base
+MySQL • MongoDB • Firebase 
 
 ---
 
@@ -286,9 +289,9 @@ Git • Docker • MLflow • DVC • Anaconda
 
 ## 💬 Langues
 
-- 🇫🇷 **Français** (natif)
-- 🇬🇧 **English** (fluent)
-- 🇹🇩 **Chadian Arabic** (native)
+- 🇫🇷 **Français** (courant)
+- 🇬🇧 **English** (intermediaire)
+- 🇹🇩 **Arabic** (courant)
 
 ---
 
@@ -334,7 +337,7 @@ Je suis **actif et open à collaborer** sur :
 
 ## 📬 Contact
 
-- 📧 **Email** : hissein@nexafai.ai
+- 📧 **Email** : tourabybrahim@gmail.com
 - 🔗 **Website** : https://nexafai.ai
 - 💼 **LinkedIn** : [Hissein Brahim Ousman](https://linkedin.com/in/hissein-brahim)
 - 🐦 **Twitter** : [@nexafai_ai](https://twitter.com/nexafai_ai)
@@ -349,6 +352,6 @@ Je suis **actif et open à collaborer** sur :
 
 **NEXAFAI** • Next-Generation African AI
 
-*Made with ❤️ in Cameroon 🇨🇲 | Serving Africa 🌍*
+*Made with ❤️ in Chad | Serving Africa 🌍*
 
 </div>
