@@ -23,6 +23,7 @@ Je construis **NEXAFAI**, une startup d'éducation et de technologie IA nouvelle
 - **YouTube & médias** : 42 scripts Shorts, 21 scripts d'actualité IA, contenu éducatif produit
 - **Institutions** : Certification (500 certs/an), Académie online (1000 étudiants), partenariats universitaires
 - **Revenue** : 73.5–103.5M FCFA/mois (objectif M24) via Mobile Money + B2B
+- **Dashboards & Déploiement** : Streamlit pour présentation des modèles IA et analytics en temps réel
 
 📂 [Code & Documentation](https://github.com/nexafai) | 📺 [Chaîne YouTube](https://youtube.com/@nexafai)
 
@@ -37,18 +38,38 @@ Je construis **NEXAFAI**, une startup d'éducation et de technologie IA nouvelle
 - **Multi-langue** : Français + Arabe tchadien
 - **Disponibilité** : API, Web, Android App (offline-capable)
 - **Intégration Mobile Money** : Airtel Money, Moov Money, UBA, Mastercard
+- **Dashboards Streamlit** : Visualisation données, monitoring modèles, analytics sectoriels
 
 **Tech Stack :**
 ```
-Frontend   : React, Tailwind CSS, Lucide React
+Frontend   : React, Tailwind CSS, Lucide React, Streamlit
 Backend    : FastAPI / Python + FastAPI
 LLM        : Groq Llama 3.3 70B
 Vector DB  : Pinecone RAG
 Hosting    : Oracle Cloud Free Tier (ARM, 4 vCPU + 24GB RAM)
 Language   : French + Chadian Arabic NLP
+Dashboard  : Streamlit (model deployment & presentations)
 ```
 
 📂 [NEXIA Code](https://github.com/nexafai/nexia) | 🎯 [Roadmap 24 Mois](./docs/NEXIA_ROADMAP.md)
+
+---
+
+### 💼 Expérience Professionnelle
+
+**Fondateur & CEO - NEXAFAI** (2024-Présent)
+- Création et développement d'une startup d'éducation IA ciblant le Tchad et l'Afrique francophone
+- Gestion stratégique, développement produit (NEXIA), contenu éducatif (YouTube, formations)
+- Construction de partenariats institutionnels (universités, gouvernements)
+- Développement de modèle économique basé sur Mobile Money et B2B
+
+**Développeur Android & Entrepreneur Tech - ELISIMO TECH** (2023-Présent)
+- Développement d'applications mobiles en Kotlin/Jetpack Compose
+- Gestion de la boutique tech ELISIMO MULTISERVICES (Douala)
+- Production de contenu éducatif technique
+
+**Formateur & Consultant en Robotique & IA** (2025)
+- Vacances Utiles de Smart Education - Formation pratique en robotique à jeunes étudiants
 
 ---
 
@@ -120,13 +141,30 @@ Boutique de technologie + services numériques à Douala, Cameroun.
   - Nettoyage de données et traitement des valeurs manquantes
   - Visualisations avancées (évolution, saisonnalité, tendances)
   - Modélisation prédictive multi-algorithmes
+  - Déploiement via Streamlit
 - **Modèles & Performances** :
   - Régression Linéaire → RMSE = 0.25, R² ≈ 0.94
   - Arbre de Décision → RMSE = 0.24
   - Forêt Aléatoire → RMSE = 0.19, R² ≈ 0.97
   - Gradient Boosting → RMSE = 0.17, R² ≈ 0.97 ⭐ (Best)
-- **Stack** : Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
+- **Stack** : Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Streamlit
 - **Insights** : Importance du prétraitement, comparaison modèles, méthodes d'ensemble supérieures
+
+---
+
+### 🌊 [Water Potability Prediction - Hackathon Zindi](https://github.com/nexafai/water-potability-zindi)
+**Prédiction de Potabilité de l'Eau - Machine Learning & Data Analysis**
+- **Événement** : Hackathon Zindi (09 avril 2025, Douala)
+- **Objectif** : Prédire la potabilité de l'eau à partir de données physico-chimiques
+- **Approche** :
+  - Nettoyage de données volumineuses avec valeurs manquantes
+  - Feature Engineering pour capturer les relations chimiques
+  - Analyse comparative de modèles ML (Classification)
+  - Gestion du déséquilibre de classes
+- **Modèles** : Random Forest, XGBoost, Logistic Regression
+- **Impact** : Solution applicable aux zones d'accès limité à l'eau potable en Afrique
+- **Stack** : Python, Pandas, scikit-learn, XGBoost, Streamlit
+- **Certificat** : Participation et présentation remarquée au Hackathon 2025
 
 ---
 
@@ -205,40 +243,156 @@ Boutique de technologie + services numériques à Douala, Cameroun.
 Python • Kotlin • Java • SQL • C/C++ 
 
 ### ML & Data Science
-scikit-learn • Pandas • NumPy • TensorFlow • Groq
+scikit-learn • Pandas • NumPy • TensorFlow • Groq • XGBoost
 
 ### Android & Mobile
 Jetpack Compose • Room Database • Firebase
 
 ### Web & Cloud
-React • Tailwind CSS • FastAPI • Oracle Cloud
+React • Tailwind CSS • FastAPI • Oracle Cloud • Streamlit
 
 ### Tools & DevOps
 Git • Docker • MLflow • DVC • Anaconda
 
 ### Data Base
-MySQL • MongoDB • Firebase 
+MySQL • MongoDB • Firebase • Pinecone
 
 ---
 
 ## 📜 Certifications & Formations
 
-### Coursera & Online
-- 🏆 **Machine Learning with Python (V2)** - Coursera (oct. 2025)
-- 🏆 **Introduction à l'IA** - Google / Coursera (oct. 2025)
-- 🏆 **Prompt Engineering for ChatGPT** - Vanderbilt University / Coursera (oct. 2025)
-- 🏆 **Learn to Learn for Young Learners** - Arizona State University / Coursera (oct. 2025)
-- 🏆 **Kotlin Basics for Programming** - Meta / Coursera (oct. 2025)
+### 2025 - Certifications Récentes
 
-### OpenClassrooms
-- 🏆 **Apprenez les bases du langage Python** (juil. 2024)
-- 🏆 **Programmation orientée objet avec Python** (août 2024)
-- 🏆 **Implémentez vos bases de données relationnelles avec SQL** (déc. 2024)
-- 🏆 **Débutez avec React** (déc. 2024)
-- 🏆 **Gérez du code avec Git et GitHub** (janv. 2025)
+- 🏆 **Gérez du code avec Git et GitHub** - OpenClassrooms (janv. 2025)
+- 🏆 **Robotique & Intelligence Artificielle (Formation dispensée)** - Vacances Utiles de Smart Education, Douala (juillet 2025)
+- 🏆 **Data Analysis & Insight Development** - "Turning Data into Insight and Impact" - Dare to be Women Tech, Douala (09 avril 2025)
+- 🏆 **Water Potability Hackathon** - Zindi Hackathon Participation & Certification (09 avril 2025)
 
-### Orange Digital Center Cameroon
+### 2024 - Certifications & Formation Académique
+
+- 🏆 **Machine Learning with Python (V2)** - Coursera (oct. 2024)
+- 🏆 **Introduction à l'IA** - Google / Coursera (oct. 2024)
+- 🏆 **Prompt Engineering for ChatGPT** - Vanderbilt University / Coursera (oct. 2024)
+- 🏆 **Learn to Learn for Young Learners** - Arizona State University / Coursera (oct. 2024)
+- 🏆 **Kotlin Basics for Programming** - Meta / Coursera (oct. 2024)
+- 🏆 **Python Programming** - Dare to be Women Tech, Douala (04 décembre 2024)
+- 🏆 **Implémentez vos bases de données relationnelles avec SQL** - OpenClassrooms (déc. 2024)
+- 🏆 **Débutez avec React** - OpenClassrooms (déc. 2024)
+- 🏆 **Séminaire sur l'Excellence Académique** - Certificat de Participation + Prix Zacharias Tanee Fomum Edition 2024, Yaoundé
+
+### 2024 - Formation Antérieure
+
+- 🏆 **Apprenez les bases du langage Python** - OpenClassrooms (juil. 2024)
+- 🏆 **Programmation orientée objet avec Python** - OpenClassrooms (août 2024)
 - 🏆 **No-Code with Airtable** - Orange Digital Center (Note: 10/10 🏅)
+- 🏆 **Marketing Digital** - Douala (2022)
+
+---
+
+## 🤖 Projets Robotique & Systèmes Embarqués
+
+### 2025 - Formation & Réalisations Pratiques : Robotique & IA
+**Vacances Utiles de Smart Education, Douala (juillet 2025)**
+
+Formateur en robotique et intelligence artificielle auprès de jeunes étudiants et apprenants. Réalisation pratique de projets robotiques appliqués :
+
+**Réalisations pratiques complétées :**
+- ✅ **Robots Humanoides** - Conception et programmation de robots humanoïdes autonomes
+- ✅ **Maisons Intelligentes (Domotique)** - Systèmes de contrôle automatisé pour habitations
+- ✅ **Chien Robot** - Robot zoomorphe programmé avec comportements autonomes
+- ✅ **Voitures Autonomes** - Véhicules miniaturisés avec navigation autonome et détection d'obstacles
+- ✅ **Avions Autonomes** - Drones et avions programmés pour vol autonome
+- ✅ **Bras Robotique** - Bras manipulateurs avec contrôle articulé et retour sensoriel
+- ✅ **Systèmes d'Alarme Intelligents** - Alarmes connectées avec détection de mouvement et alertes
+- ✅ **Suiveur de Ligne** - Robot autonome capable de suivre une trajectoire à l'aide de capteurs
+- ✅ **Ascenseur Automatisé** - Système d'ascenseur programmé avec contrôle d'étages
+- ✅ **Autres projets d'automation** - Diverses applications d'IoT et automation résidentielle/industrielle
+
+**Compétences démontrées :**
+- Programmation Arduino, microcontrôleurs (STM32, Raspberry Pi)
+- Intégration de capteurs (ultrason, IR, motion, température, humidité)
+- Contrôle de moteurs DC, servomoteurs, actionneurs pneumatiques
+- Algorithmes de navigation autonome et évitement d'obstacles
+- Intégration IA/ML pour perception et décision autonome
+- Communication sans fil (Bluetooth, WiFi, Zigbee)
+
+---
+
+### 📚 Projets Académiques : Robotique & Systèmes Embarqués
+
+#### 🏠 **Poubelle Intelligente**
+**Projet de domotique & IoT**
+- **Objectif** : Poubelle autonome avec détection de présence et ouverture automatique
+- **Technologie** : Arduino, capteurs de proximité (ultrasons), servomoteurs, alimentation batterie
+- **Fonctionnalités** :
+  - Détection de mouvement pour activation automatique
+  - Ouverture/fermeture programmée du couvercle
+  - Indicateur de niveau de remplissage
+  - Mode économie d'énergie
+- **Impact** : Prototype fonctionnel démontrant l'automation résidentielle
+
+#### 🏡 **Domotique / Maisons Intelligentes**
+**Projet d'automation résidentielle complet**
+- **Objectif** : Système de contrôle centralisé pour maison intelligente
+- **Composants** :
+  - Contrôle de l'éclairage automatisé (LDR + relais)
+  - Gestion de la température (capteurs DHT22)
+  - Serrure électronique programmée
+  - Système de sécurité avec caméras IP
+  - Interface de contrôle web/mobile
+- **Technologie** : Arduino/Raspberry Pi, Node-RED, MQTT, services cloud
+- **Apprentissages** : Architecture IoT, protocoles de communication, intégration multi-capteurs
+
+#### 🎯 **Détection de Présence avec Arduino + Modèle IA**
+**Projet d'IA embarquée & capteurs**
+- **Objectif** : Système de reconnaissance de présence combinant capteurs hardware et modèle ML
+- **Architecture** :
+  - Capteurs PIR (motion) + capteurs thermiques
+  - Carte Arduino pour acquisition de données
+  - Modèle IA entraîné pour classification présence/absence
+  - Intégration en temps réel sur microcontrôleur
+- **Modèle IA** : Classification binaire (présence détectée ou non)
+- **Applications** : Automation d'éclairage, contrôle HVAC, sécurité domestique
+- **Stack** : Arduino, Python, scikit-learn, TensorFlow Lite pour déploiement embarqué
+
+#### 💡 **Jeux de Lumière Programmés**
+**Projet de contrôle d'éclairage et LEDs**
+- **Objectif** : Séquences lumineuses programmables et synchronisées
+- **Réalisation** :
+  - Contrôle de bandes LED (RGB) avec Arduino
+  - Programmation de séquences d'animation
+  - Synchronisation avec musique/rythme
+  - Interface de personnalisation
+- **Technologie** : Arduino, LEDs WS2812B/Neopixel, PWM
+- **Cas d'usage** : Décoration intelligente, signalisation, art lumière interactif
+
+#### 🔴 **Jeux de Leds / Afficheurs**
+**Projet de gestion d'affichage LED**
+- **Objectif** : Afficheurs LED programmables pour indication d'état
+- **Réalisation** :
+  - Matrice LED 7-segment ou 8x8
+  - Affichage de données en temps réel
+  - Codage/décodage d'informations
+  - Gestion de la luminosité adaptée
+- **Applications** : Compteurs, thermomètres digitaux, tableaux de bord
+- **Technologie** : Arduino, MAX7219, multiplexage LED
+
+---
+
+## 🎤 Expériences de Formation & Enseignement
+
+### 2025 - Formateur en Robotique & IA
+
+- 🤖 **Robotique & Intelligence Artificielle** - Vacances Utiles de Smart Education, Douala (juillet 2025)
+  - **Rôle** : Formateur principal en robotique appliquée et systèmes embarqués
+  - **Public** : Jeunes étudiants et apprenants (niveau débutant à intermédiaire)
+  - **Approche pédagogique** : Apprentissage par projet, mains-on avec réalisations complètes
+  - **Sujets couverts** : 
+    - Bases de l'IA et machine learning
+    - Robotique autonome et capteurs
+    - Systèmes embarqués et microcontrôleurs
+    - Cas d'usage africains et solutions contextualisées
+  - **Résultats** : Étudiants capables de concevoir et programmer des robots autonomes
 
 ---
 
@@ -248,23 +402,27 @@ MySQL • MongoDB • Firebase
 - Spécialisation : Systèmes Embarqués & Intelligence Artificielle
 
 **Core Expertise :**
-- **Machine Learning & Data Science** : Preprocessing, EDA, Feature Engineering, Model Comparison, Hyperparameter Tuning
-- **MLOps & Production** : DVC, MLflow, Docker, FastAPI, Model Versioning, Data Drift Monitoring
+- **Machine Learning & Data Science** : Preprocessing, EDA, Feature Engineering, Model Comparison, Hyperparameter Tuning, Deployment
+- **MLOps & Production** : DVC, MLflow, Docker, FastAPI, Model Versioning, Data Drift Monitoring, Streamlit Dashboards
 - **Deep Learning & NLP** : BERT, Transformers, PyTorch, Fine-tuning, Sentiment Analysis
 - **Android Development** : Kotlin, Jetpack Compose, MVVM, Room, Firebase, StateFlow
 - **LLM Applications** : Groq, Pinecone, RAG, Prompt Engineering, LLM Integration
 - **Web Development** : React, FastAPI, Tailwind CSS, Full-Stack Solutions
+- **Dashboard & Visualization** : Streamlit (Model Deployment, Real-time Analytics, Presentations)
 - **Compilers & Languages** : Python, Kotlin, Prolog, SQL, Git
 - **African-focused AI** : Offline-first design, Mobile Money integration, Local languages (French, Chadian Arabic), Sector-specific solutions
 - **Content Production** : YouTube, OBS Studio, DaVinci Resolve, CapCut, Script Writing
+- **Robotics & Embedded Systems** : Robotics fundamentals, IoT, embedded AI applications
 
 **Key Learnings from Projects :**
 - Importance of proper data preprocessing and avoiding data leakage
-- Ensemble methods (Random Forest, Gradient Boosting) often outperform simple models
+- Ensemble methods (Random Forest, Gradient Boosting, XGBoost) often outperform simple models
 - Stratified train/test splits preserve class distribution in imbalanced datasets
 - Feature standardization critical for algorithm convergence
 - Medical/critical applications require domain-specific metrics (Recall, ROC-AUC vs Accuracy)
-- No-code solutions enable rapid MVP development (Airtable workflows)
+- No-code solutions enable rapid MVP development (Airtable, Streamlit)
+- Streamlit accelerates model deployment and stakeholder presentations
+- African markets require offline-first, Mobile Money-integrated solutions
 
 ---
 
@@ -303,15 +461,18 @@ Depuis mes premières lignes de code à l'Université de Douala, j'ai progressé
 
 **Mon parcours** :
 - 📚 **Académique** : Licence en Informatique spécialisée en Systèmes Embarqués & IA (Université de Douala, 2022-2026)
-- 🏆 **Certifications** : 12+ certifications en ML, Python, Kotlin, AI (Coursera, OpenClassrooms, Meta, Google, Arizona State)
-- 🚀 **Entrepreneurship** : Fondateur de NEXAFAI - plateforme d'éducation & technologie IA pour l'Afrique francophone
-- 💡 **Innovations** : NEXIA (plateforme IA multi-secteurs), ELISIMO Stock (gestion d'inventaire offline-first)
+- 🏆 **Certifications** : 18+ certifications en ML, Python, Kotlin, AI, Data Analysis, Robotics (Coursera, OpenClassrooms, Meta, Google, Vanderbilt, Arizona State, Dare to be Women Tech, Orange Digital Center)
+- 🚀 **Entrepreneurship** : Fondateur & CEO NEXAFAI - plateforme d'éducation & technologie IA pour l'Afrique francophone (depuis 2024)
+- 💡 **Innovations** : NEXIA (plateforme IA multi-secteurs), ELISIMO Stock (gestion d'inventaire offline-first), Projets Robotique & Systèmes Embarqués
+- 🎤 **Enseignement** : Formateur en Robotique & IA (Vacances Utiles, Smart Education, Douala 2025)
+- 🏅 **Hackathons** : Participant & lauréat - Zindi Water Potability Hackathon 2025 (Douala)
 
 **Vision** : Démocratiser l'IA en Afrique via l'éducation, en construisant des solutions :
 - **Offline-first** pour zones à connectivité limitée
 - **Mobile Money-integrated** pour accès financier inclusif
 - **Multi-langue** (Français + Arabe tchadien)
 - **Sector-specific** (Éducation, Finance, Agriculture, Santé, Défense)
+- **Streamlit-powered** pour dashboards et presentations modernes
 
 **Motivation** : Créer une génération d'africains qui construisent l'IA africaine, pour les africains.
 
@@ -321,11 +482,13 @@ Depuis mes premières lignes de code à l'Université de Douala, j'ai progressé
 
 Je suis **actif et open à collaborer** sur :
 - ✅ Solutions IA africaines (offline-first, Mobile Money, langues locales)
-- ✅ Projets ML/Data Science en Python (churn, prédiction, classification)
+- ✅ Projets ML/Data Science en Python (churn, prédiction, classification, water potability)
 - ✅ Applications Android en Kotlin/Jetpack Compose (architectures modernes)
 - ✅ Contenu éducatif français/arabe (YouTube, courses, tutorials)
 - ✅ NLP et Transformers (BERT fine-tuning, sentiment analysis)
 - ✅ MLOps et production ML (DVC, MLflow, Docker, FastAPI)
+- ✅ Robotique et systèmes embarqués (IoT, embedded AI)
+- ✅ Dashboards Streamlit et Data Visualization
 
 **Intéressé par une collaboration ?** 
 - 📧 [hissein@nexafai.ai](mailto:hissein@nexafai.ai)
