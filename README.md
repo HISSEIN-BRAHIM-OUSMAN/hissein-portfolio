@@ -458,7 +458,7 @@ Depuis mes premières lignes de code à l'Université de Douala, j'ai progressé
 
 **Mon parcours** :
 - 📚 **Académique** : Licence en Informatique spécialisée en Systèmes Embarqués & IA (Université de Douala, 2022-2026)
-- 🏆 **Certifications** : 18+ certifications en ML, Python, Kotlin, AI, Data Analysis, Robotics (Coursera, OpenClassrooms, Meta, Google, Vanderbilt, Arizona State, Dare to be Women Tech, Orange Digital Center)
+- 🏆 **Certifications** : 24+ certifications en ML, Python, Kotlin, AI, Data Analysis, Robotics (Coursera, OpenClassrooms, Meta, Google, Vanderbilt, Arizona State, Dare to be Women Tech, Orange Digital Center)
 - 🚀 **Entrepreneurship** : Fondateur & CEO NEXAFAI - plateforme d'éducation & technologie IA pour l'Afrique francophone (depuis 2024)
 - 💡 **Innovations** : NEXIA (plateforme IA multi-secteurs), ELISIMO Stock (gestion d'inventaire offline-first), Projets Robotique & Systèmes Embarqués
 - 🎤 **Enseignement** : Formateur en Robotique & IA (Vacances Utiles, Smart Education, Douala 2025)
