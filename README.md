@@ -1,13 +1,14 @@
-# Hissein Brahim Ousman
+# HISSEIN BRAHIM OUSMAN
 ## Data Scientist | AI Engineer | Founder NEXAFAI
 
-[GitHub](https://github.com/hisseinousman) • [LinkedIn](https://linkedin.com/in/hissein-brahim-ousman/) • [YouTube](https://youtube.com/@nexafai) • [Twitter](https://twitter.com/nexafai_ai) • [Discord](https://discord.gg/nexafai)
+[GitHub](https://github.com/HISSEIN-BRAHIM-OUSMAN) • [LinkedIn](https://linkedin.com/in/hissein-brahim-ousman/) • [YouTube](https://youtube.com/@nexafai) • [X](@hissein_touraby) • [Discord](https://discord.gg/nexafai) • [LeetCode](https://leetcode.com/u/HISSEIN-BRAHIM/)
 
 ---
 
 ## 🚀 Mission : Démocratiser l'IA en Afrique
 
-Je construis **NEXAFAI**, une startup d'éducation et de technologie IA nouvelle génération ciblant le **Tchad** et l'**Afrique**. Mon approche : **offline-first**, **Mobile Money**, **contexte local** (français + arabe), **secteurs critiques** (éducation, finance, agriculture, santé).
+Je construis **NEXAFAI**, une startup d'éducation et de technologie IA nouvelle génération, en développant des solutions innovantes pour accélérer la transformation durable de l'Afrique (ciblant le **Tchad** et l'**Afrique**). Mon approche : **offline-first**, **Mobile Money**, **contexte local** (français + arabe), **secteurs critiques** (éducation, finance, agriculture, santé).
+Devenir le leader panafricain de l'éducation et des solutions IA en Afrique.
 
 > *"L'IA africaine doit être conçue par des Africains, pour les Africains."*
 
@@ -18,12 +19,9 @@ Je construis **NEXAFAI**, une startup d'éducation et de technologie IA nouvelle
 ### 🎓 [NEXAFAI](https://nexafai.ai)
 **startup d'Éducation et d'IA pour l'Afrique**
 
-- **Stratégie 24 mois** : Dominance en éducation (Phase 1) → Agriculture, Finance, Santé (Phases 2A-2C) → Commerce, Défense (Phase 3)
-- **15 formations professionnelles** en IA, Python, ML, Data Science
-- **YouTube & médias** : 42 scripts Shorts, 21 scripts d'actualité IA, contenu éducatif produit
-- **Institutions** : Certification (500 certs/an), Académie online (1000 étudiants), partenariats universitaires
-- **Revenue** : 73.5–103.5M FCFA/mois (objectif M24) via Mobile Money + B2B
-- **Dashboards & Déploiement** : Streamlit pour présentation des modèles IA et analytics en temps réel
+- **Stratégie ** : Dominance en éducation (Phase 1) → Agriculture, Finance, Santé (Phases 2A-2C) → Commerce, Défense (Phase 3)
+- **Formations professionnelles** en IA, Python, Machine Learning, Data Science
+- **YouTube & médias** : des scripts Shorts, scripts d'actualité IA, contenu éducatif produit
 
 📂 [Code & Documentation](https://github.com/nexafai) | 📺 [Chaîne YouTube](https://youtube.com/@nexafai)
 
@@ -59,7 +57,7 @@ Dashboard  : Streamlit (model deployment & presentations)
 
 **Fondateur & CEO - NEXAFAI** (2026-Présent)
 - Création et développement d'une startup d'éducation IA ciblant le Tchad et l'Afrique 
-- Gestion stratégique, développement produit (NEXIA), contenu éducatif (YouTube, formations)
+- Gestion stratégique, développement produit (NEXIA, CHAD UNITY AI), contenu éducatif (YouTube, formations)
 - Construction de partenariats institutionnels (universités, gouvernements)
 - Développement de modèle économique basé sur Mobile Money et B2B
 
@@ -410,7 +408,7 @@ Formateur en robotique et intelligence artificielle auprès de jeunes élèves e
 - **Web Development** : React, FastAPI, Tailwind CSS, Full-Stack Solutions
 - **Dashboard & Visualization** : Streamlit (Model Deployment, Real-time Analytics, Presentations)
 - **Compilers & Languages** : Python, Kotlin, Prolog, SQL, Git
-- **African-focused AI** : Offline-first design, Mobile Money integration, Local languages (French, Chadian Arabic), Sector-specific solutions
+- **African-focused AI** : Offline-first design, Mobile Money integration, Local languages (French, Arabic), Sector-specific solutions
 - **Content Production** : YouTube, OBS Studio, DaVinci Resolve, CapCut, Script Writing
 - **Robotics & Embedded Systems** : Robotics fundamentals, IoT, embedded AI applications
 
@@ -428,28 +426,27 @@ Formateur en robotique et intelligence artificielle auprès de jeunes élèves e
 
 ## 📊 Statistiques GitHub
 
-[Consulter les statistiques GitHub](https://github.com/hisseinousman?tab=repositories)
+[Consulter les statistiques GitHub](https://github.com/HISSEIN-BRAHIM-OUSMAN)
 
 ---
 
 ## 🎬 Contenu Produit
 
 ### YouTube NEXAFAI
-- **42 YouTube Shorts** sur l'IA & tech
-- **21 scripts d'actualité IA** (1 min each)
-- **15 formations professionnelles** (Python, ML, Data Science, No-Code ML)
-- **20 scripts Python 3** (série complète)
-- **No-Code ML Course** (Teachable Machine, smartphone-first)
 
 📺 [Regarder sur YouTube](https://youtube.com/@nexafai)
+
+### Tiktok NEXAFAI
+
+📱 [Regarder sur Tiktok](https://www.tiktok.com/@nexafai)
 
 ---
 
 ## 💬 Langues
 
 - 🇫🇷 **Français** (courant)
-- 🇬🇧 **English** (intermediaire)
-- 🇹🇩 **Arabic** (courant)
+- 🇬🇧 **Anglais** (intermediaire)
+- 🇸🇦 **Arabe** (courant)
 
 ---
 
@@ -467,10 +464,10 @@ Depuis mes premières lignes de code à l'Université de Douala, j'ai progressé
 - 🎤 **Enseignement** : Formateur en Robotique & IA (Vacances Utiles, Smart Education, Douala 2025)
 - 🏅 **Hackathons** : Participant & lauréat - Zindi Water Potability Hackathon 2025 (Douala)
 
-**Vision** : Démocratiser l'IA en Afrique via l'éducation, en construisant des solutions :
+**Vision** : Démocratiser l'IA en Afrique via l'éducation, en construisant des solutions innovantes:
 - **Offline-first** pour zones à connectivité limitée
 - **Mobile Money-integrated** pour accès financier inclusif
-- **Multi-langue** (Français + Arabe tchadien)
+- **Multi-langue** (Français + Arabe/Arabe tchadien)
 - **Sector-specific** (Éducation, Finance, Agriculture, Santé, Défense)
 - **Streamlit-powered** pour dashboards et presentations modernes
 
@@ -491,10 +488,11 @@ Je suis **actif et open à collaborer** sur :
 - ✅ Dashboards Streamlit et Data Visualization
 
 **Intéressé par une collaboration ?** 
-- 📧 [hissein@nexafai.ai](mailto:hissein@nexafai.ai)
+- 📧 [hissein@nexafai.ai](mailto:nexafai26@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/hissein-brahim-ousman/)
 - 📺 [YouTube](https://youtube.com/@nexafai) - Contenu éducatif IA
-- 🐦 [Twitter](https://twitter.com/nexafai_ai) - Actualités IA africaines
+- 𝕏 [X](https://twitter.com/nexafai) - Actualités IA africaines
+- 🟧 **LeetCode** : [HISSEIN-BRAHIM](https://leetcode.com/u/HISSEIN-BRAHIM/)
 
 ---
 
@@ -503,9 +501,10 @@ Je suis **actif et open à collaborer** sur :
 - 📧 **Email** : tourabybrahim@gmail.com
 - 🔗 **Website** : https://nexafai.ai
 - 💼 **LinkedIn** : [Hissein Brahim Ousman](https://linkedin.com/in/hissein-brahim-ousman/)
-- 🐦 **Twitter** : [@nexafai_ai](https://twitter.com/nexafai_ai)
+- 𝕏 **X** : [@nexafai_ai](https://twitter.com/nexafai)
 - 📺 **YouTube** : [@nexafai](https://youtube.com/@nexafai)
 - 💬 **Discord** : [NEXAFAI Community](https://discord.gg/nexafai)
+- 🟧 **LeetCode** : [HISSEIN-BRAHIM](https://leetcode.com/u/HISSEIN-BRAHIM/)
 
 ---
 
