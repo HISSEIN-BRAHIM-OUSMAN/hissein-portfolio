@@ -1,7 +1,7 @@
 # Hissein Brahim Ousman
 ## Data Scientist | AI Engineer | Founder NEXAFAI
 
-[GitHub](https://github.com/hisseinousman) • [LinkedIn](https://linkedin.com/in/hissein-brahim) • [YouTube](https://youtube.com/@nexafai) • [Twitter](https://twitter.com/nexafai_ai) • [Discord](https://discord.gg/nexafai)
+[GitHub](https://github.com/hisseinousman) • [LinkedIn](https://linkedin.com/in/hissein-brahim-ousman/) • [YouTube](https://youtube.com/@nexafai) • [Twitter](https://twitter.com/nexafai_ai) • [Discord](https://discord.gg/nexafai)
 
 ---
 
@@ -57,19 +57,19 @@ Dashboard  : Streamlit (model deployment & presentations)
 
 ### 💼 Expérience Professionnelle
 
-**Fondateur & CEO - NEXAFAI** (2024-Présent)
-- Création et développement d'une startup d'éducation IA ciblant le Tchad et l'Afrique francophone
+**Fondateur & CEO - NEXAFAI** (2026-Présent)
+- Création et développement d'une startup d'éducation IA ciblant le Tchad et l'Afrique 
 - Gestion stratégique, développement produit (NEXIA), contenu éducatif (YouTube, formations)
 - Construction de partenariats institutionnels (universités, gouvernements)
 - Développement de modèle économique basé sur Mobile Money et B2B
 
-**Développeur Android & Entrepreneur Tech - ELISIMO TECH** (2023-Présent)
+**Développeur Android & Entrepreneur Tech - ELISIMO TECH** (2026-Présent)
 - Développement d'applications mobiles en Kotlin/Jetpack Compose
 - Gestion de la boutique tech ELISIMO MULTISERVICES (Douala)
 - Production de contenu éducatif technique
 
 **Formateur & Consultant en Robotique & IA** (2025)
-- Vacances Utiles de Smart Education - Formation pratique en robotique à jeunes étudiants
+- Vacances Utiles de Smart Education - Formation pratique en robotique aux jeunes élèves et étudiants
 
 ---
 
@@ -294,9 +294,9 @@ MySQL • MongoDB • Firebase • Pinecone
 ### 2025 - Formation & Réalisations Pratiques : Robotique & IA
 **Vacances Utiles de Smart Education, Douala (juillet 2025)**
 
-Formateur en robotique et intelligence artificielle auprès de jeunes étudiants et apprenants. Réalisation pratique de projets robotiques appliqués :
+Formateur en robotique et intelligence artificielle auprès de jeunes élèves et apprenants. Réalisation pratique de projets robotiques appliqués :
 
-**Réalisations pratiques complétées :**
+**Réalisations pratiques de projets :**
 - ✅ **Robots Humanoides** - Conception et programmation de robots humanoïdes autonomes
 - ✅ **Maisons Intelligentes (Domotique)** - Systèmes de contrôle automatisé pour habitations
 - ✅ **Chien Robot** - Robot zoomorphe programmé avec comportements autonomes
@@ -309,12 +309,12 @@ Formateur en robotique et intelligence artificielle auprès de jeunes étudiants
 - ✅ **Autres projets d'automation** - Diverses applications d'IoT et automation résidentielle/industrielle
 
 **Compétences démontrées :**
-- Programmation Arduino, microcontrôleurs (STM32, Raspberry Pi)
-- Intégration de capteurs (ultrason, IR, motion, température, humidité)
+- Programmation Arduino, microcontrôleurs (ESP32)
+- Intégration de capteurs (ultrason, Pir, Gaz, température, humidité, etc...)
 - Contrôle de moteurs DC, servomoteurs, actionneurs pneumatiques
 - Algorithmes de navigation autonome et évitement d'obstacles
 - Intégration IA/ML pour perception et décision autonome
-- Communication sans fil (Bluetooth, WiFi, Zigbee)
+- Communication sans fil (Bluetooth, WiFi)
 
 ---
 
@@ -492,7 +492,7 @@ Je suis **actif et open à collaborer** sur :
 
 **Intéressé par une collaboration ?** 
 - 📧 [hissein@nexafai.ai](mailto:hissein@nexafai.ai)
-- 💼 [LinkedIn](https://linkedin.com/in/hissein-brahim-ousman)
+- 💼 [LinkedIn](https://linkedin.com/in/hissein-brahim-ousman/)
 - 📺 [YouTube](https://youtube.com/@nexafai) - Contenu éducatif IA
 - 🐦 [Twitter](https://twitter.com/nexafai_ai) - Actualités IA africaines
 
@@ -502,7 +502,7 @@ Je suis **actif et open à collaborer** sur :
 
 - 📧 **Email** : tourabybrahim@gmail.com
 - 🔗 **Website** : https://nexafai.ai
-- 💼 **LinkedIn** : [Hissein Brahim Ousman](https://linkedin.com/in/hissein-brahim)
+- 💼 **LinkedIn** : [Hissein Brahim Ousman](https://linkedin.com/in/hissein-brahim-ousman/)
 - 🐦 **Twitter** : [@nexafai_ai](https://twitter.com/nexafai_ai)
 - 📺 **YouTube** : [@nexafai](https://youtube.com/@nexafai)
 - 💬 **Discord** : [NEXAFAI Community](https://discord.gg/nexafai)
