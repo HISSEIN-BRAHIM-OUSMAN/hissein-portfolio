@@ -491,7 +491,7 @@ Je suis **actif et open à collaborer** sur :
 - 📧 [hissein@nexafai.ai](mailto:nexafai26@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/hissein-brahim-ousman/)
 - 📺 [YouTube](https://youtube.com/@nexafai) - Contenu éducatif IA
-- 𝕏 [X](https://twitter.com/nexafai) - Actualités IA africaines
+- 𝕏 (https://twitter.com/nexafai) - Actualités IA africaines
 - 🟧 **LeetCode** : [HISSEIN-BRAHIM](https://leetcode.com/u/HISSEIN-BRAHIM/)
 
 ---
@@ -501,7 +501,7 @@ Je suis **actif et open à collaborer** sur :
 - 📧 **Email** : tourabybrahim@gmail.com
 - 🔗 **Website** : https://nexafai.ai
 - 💼 **LinkedIn** : [Hissein Brahim Ousman](https://linkedin.com/in/hissein-brahim-ousman/)
-- 𝕏 **X** : [@nexafai_ai](https://twitter.com/nexafai)
+- 𝕏 - [@nexafai_ai](https://twitter.com/nexafai)
 - 📺 **YouTube** : [@nexafai](https://youtube.com/@nexafai)
 - 💬 **Discord** : [NEXAFAI Community](https://discord.gg/nexafai)
 - 🟧 **LeetCode** : [HISSEIN-BRAHIM](https://leetcode.com/u/HISSEIN-BRAHIM/)
