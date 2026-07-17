@@ -19,7 +19,7 @@ Devenir le leader panafricain de l'éducation et des solutions IA en Afrique.
 ### 🎓 [NEXAFAI](https://nexafai.ai)
 **startup d'Éducation et d'IA pour l'Afrique**
 
-- **Stratégie ** : Dominance en éducation (Phase 1) → Agriculture, Finance, Santé (Phases 2A-2C) → Commerce, Défense (Phase 3)
+- **Stratégie** : Dominance en éducation (Phase 1) → Agriculture, Finance, Santé (Phases 2A-2C) → Commerce, Défense (Phase 3)
 - **Formations professionnelles** en IA, Python, Machine Learning, Data Science
 - **YouTube & médias** : des scripts Shorts, scripts d'actualité IA, contenu éducatif produit
 
